@@ -1,59 +1,74 @@
 {
   "main": {
-    "id": "db9c832c7547f6ed",
+    "id": "50c93ea459de687b",
     "type": "split",
     "children": [
       {
-        "id": "6f534a52784c09a9",
+        "id": "63028f34f86760c4",
         "type": "tabs",
         "children": [
           {
-            "id": "420698ec665a0a1e",
+            "id": "b2a0ce3b390aabf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股笔记/为什么要依赖注入.md",
+                "file": "八股笔记/setter注入和字段注入的区别是？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么要依赖注入"
+              "title": "setter注入和字段注入的区别是？"
+            }
+          },
+          {
+            "id": "d54b5b6732a63412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "78cd2939a32f315c",
+    "id": "9dd816dcab468129",
     "type": "split",
     "children": [
       {
-        "id": "c3c300110acff76e",
+        "id": "adeceb1ff5f5eec7",
         "type": "tabs",
         "children": [
           {
-            "id": "3af0fd15a52e9657",
+            "id": "988d17971ffba209",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "1b6ccc3b0ba9b7b9",
+            "id": "d490ae9779259688",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"八股笔记/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "2eb8342f56a8c227",
+            "id": "7d8d8e6836507053",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,42 +88,28 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "79970812f4dcd983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 300
   },
   "right": {
-    "id": "6736f4a86a2bd287",
+    "id": "872ae412389c2d73",
     "type": "split",
     "children": [
       {
-        "id": "ea48b35b6eb69c52",
+        "id": "4212a686112c51b1",
         "type": "tabs",
         "children": [
           {
-            "id": "2b79268aea45b60b",
+            "id": "6d986631c67e1a97",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "虚拟人问题分类.md",
+                "file": "八股笔记/@Lazy解决循环依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "虚拟人问题分类 的反向链接列表"
+              "title": "@Lazy解决循环依赖 的反向链接列表"
             }
           },
           {
-            "id": "d890353258ac02c1",
+            "id": "3f7541096fd874d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股笔记/为什么要依赖注入.md",
+                "file": "八股笔记/@Lazy解决循环依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "为什么要依赖注入 的出链列表"
+              "title": "@Lazy解决循环依赖 的出链列表"
             }
           },
           {
-            "id": "9a76cb1e0d7777fc",
+            "id": "1a28989b1a2c6221",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,22 +152,36 @@
             }
           },
           {
-            "id": "d4eaa26cbdf83940",
+            "id": "0d107595fe896df8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f164dd976771cbc3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股笔记/泛型推断.md",
+                "file": "八股笔记/@Lazy解决循环依赖.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "泛型推断 的大纲"
+              "title": "@Lazy解决循环依赖 的大纲"
             }
           },
           {
-            "id": "15fa151d3471c4e6",
+            "id": "21b6be478b66102a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,39 +191,39 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3af0fd15a52e9657",
+  "active": "d54b5b6732a63412",
   "lastOpenFiles": [
+    "八股笔记/setter注入和字段注入的区别是？.md",
+    "测试.md",
+    "欢迎.md",
+    "虚拟人问题分类.md",
+    "八股笔记/泛型推断.md",
     "八股笔记/工厂模式.md",
     "八股笔记/反射.md",
-    "欢迎.md",
     "八股笔记/为什么要依赖注入.md",
-    "八股笔记/泛型推断.md",
-    "未命名.md",
-    "虚拟人问题分类.md",
-    "未命名.base",
-    "八股笔记",
-    "八股笔记.base",
-    "Untitled.md",
-    "未命名.canvas",
-    "未命名 1.base",
-    "未命名/未命名"
+    "八股笔记/什么是setter注入.md",
+    "八股笔记/循环依赖-注入方式-解决方法.md",
+    "八股笔记/三级缓存解决循环依赖.md",
+    "八股笔记/@Lazy解决循环依赖.md",
+    "八股笔记.md",
+    "八股笔记"
   ]
 }
