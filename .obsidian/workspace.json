@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "反射"
             }
+          },
+          {
+            "id": "8f86eef58753c63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股笔记/反射.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反射 的反向链接列表"
+              "title": "conflict-files-obsidian-git 的反向链接列表"
             }
           },
           {
@@ -127,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股笔记/反射.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "反射 的出链列表"
+              "title": "conflict-files-obsidian-git 的出链列表"
             }
           },
           {
@@ -180,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +211,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c9a5d0b61f2d4aa8",
+  "active": "8f86eef58753c63c",
   "lastOpenFiles": [
+    "八股笔记/反射.md",
+    "conflict-files-obsidian-git.md",
+    "欢迎.md",
+    "八股笔记/循环依赖-注入方式-解决方法.md",
+    "八股笔记/什么是setter注入.md",
+    "八股笔记/三级缓存解决循环依赖.md",
+    "八股笔记/setter注入和字段注入的区别是？.md",
+    "八股笔记/@Lazy解决循环依赖.md",
     "八股笔记/泛型推断.md",
     "虚拟人问题分类.md",
     "八股笔记/为什么要依赖注入.md",
-    "欢迎.md",
     "Pasted image 20251216155530.png",
     "八股笔记/枚举类.md",
     "未命名.md",
-    "八股笔记/反射.md",
     "创建链接.md",
     "八股笔记/工厂模式.md",
     "未命名.base",
