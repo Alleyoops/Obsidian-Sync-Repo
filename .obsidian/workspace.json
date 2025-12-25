@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ca514ee3e9326814",
+        "id": "53bbaec0fecb202e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a5d0b61f2d4aa8",
+            "id": "3b36c2bec7fccdc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股笔记/反射.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "反射"
-            }
-          },
-          {
-            "id": "8f86eef58753c63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "印度国内主流媒体.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "印度国内主流媒体"
+            }
+          },
+          {
+            "id": "5876305255a6d234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown基本语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "markdown基本语法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "6736f4a86a2bd287",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "八股笔记/工厂模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "conflict-files-obsidian-git 的反向链接列表"
+              "title": "工厂模式 的反向链接列表"
             }
           },
           {
@@ -142,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "八股笔记/工厂模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "conflict-files-obsidian-git 的出链列表"
+              "title": "工厂模式 的出链列表"
             }
           },
           {
@@ -189,14 +188,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b2d4d9ac9be40ae9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,30 +223,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8f86eef58753c63c",
+  "active": "3af0fd15a52e9657",
   "lastOpenFiles": [
+    "markdown基本语法.md",
+    "印度军队机构.md",
+    "印度国内主流媒体.md",
+    "IndianArm.md",
+    "Mind 2025-12-24 17.28.17.mindmap.md",
+    "Mind 2025-12-24 17.27.46.mindmap.md",
+    "虚拟人问题分类.md",
+    "test-mindmap.md",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名.canvas",
+    "八股笔记/工厂模式.md",
+    "八股笔记/@Lazy解决循环依赖.md",
     "八股笔记/反射.md",
+    "八股笔记/泛型推断.md",
+    "八股笔记/三级缓存解决循环依赖.md",
+    "八股笔记/什么是setter注入.md",
+    "八股笔记/为什么要依赖注入.md",
+    "八股笔记/循环依赖-注入方式-解决方法.md",
+    "八股笔记/setter注入和字段注入的区别是？.md",
     "conflict-files-obsidian-git.md",
     "欢迎.md",
-    "八股笔记/循环依赖-注入方式-解决方法.md",
-    "八股笔记/什么是setter注入.md",
-    "八股笔记/三级缓存解决循环依赖.md",
-    "八股笔记/setter注入和字段注入的区别是？.md",
-    "八股笔记/@Lazy解决循环依赖.md",
-    "八股笔记/泛型推断.md",
-    "虚拟人问题分类.md",
-    "八股笔记/为什么要依赖注入.md",
     "Pasted image 20251216155530.png",
     "八股笔记/枚举类.md",
-    "未命名.md",
     "创建链接.md",
-    "八股笔记/工厂模式.md",
-    "未命名.base",
     "八股笔记",
     "八股笔记.base",
     "Untitled.md",
-    "未命名.canvas",
-    "未命名 1.base",
     "未命名/未命名"
   ]
 }
