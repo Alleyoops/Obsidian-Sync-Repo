@@ -7,12 +7,8 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
-<<<<<<< HEAD
-  "properties": false,
-=======
   "footnotes": false,
   "properties": true,
->>>>>>> b478871 (sync from my pc)
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
@@ -32,12 +28,6 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-<<<<<<< HEAD
-  "webviewer": false,
-  "footnotes": false,
-  "bases": true
-=======
   "bases": true,
   "webviewer": false
->>>>>>> b478871 (sync from my pc)
 }
