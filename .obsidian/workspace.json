@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbef41117fe9c4b3",
+        "id": "5b7ebcf3bc8de0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c15e48c6ce5923ea",
+            "id": "f029509817537835",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "onCallAgent/如何部署的？问题22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "如何部署的？问题22"
             }
           }
         ]
@@ -95,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股笔记/@Lazy解决循环依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "@Lazy解决循环依赖 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -114,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股笔记/@Lazy解决循环依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "@Lazy解决循环依赖 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -157,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股笔记/@Lazy解决循环依赖.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "@Lazy解决循环依赖 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -185,23 +181,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
+      "obsidian-importer:Open Importer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15e48c6ce5923ea",
+  "active": "f029509817537835",
   "lastOpenFiles": [
-    "八股笔记/@Lazy解决循环依赖.md",
-    "八股笔记/泛型推断.md",
+    "onCallAgent/目标账号识别agent.md",
+    "onCallAgent/如何部署的？问题22.md",
+    "onCallAgent/运维Agent.md",
     "八股笔记/setter注入和字段注入的区别是？.md",
+    "八股笔记/redolog.md",
+    "八股笔记/redis中zset中跳表层高.md",
     "虚拟人问题分类.md",
     "欢迎.md",
+    "onCallAgent/更新文档的时候会先删除老文档，再重新走一次加载分块向量化存储的流程，那这期间如果有其他请求查询的问题需要用这个文档的话怎么办.md",
+    "onCallAgent/RAG知识库Agent.md",
+    "onCallAgent",
+    "八股笔记/@Lazy解决循环依赖.md",
+    "八股笔记/泛型推断.md",
     "测试.md",
     "八股笔记/工厂模式.md",
     "八股笔记/反射.md",
