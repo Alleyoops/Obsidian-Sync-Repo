@@ -11,14 +11,15 @@
             "id": "c15e48c6ce5923ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "八股笔记/@Lazy解决循环依赖.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "@Lazy解决循环依赖"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -194,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21b6be478b66102a",
+  "active": "c15e48c6ce5923ea",
   "lastOpenFiles": [
+    "八股笔记/@Lazy解决循环依赖.md",
     "八股笔记/泛型推断.md",
     "八股笔记/setter注入和字段注入的区别是？.md",
     "虚拟人问题分类.md",
     "欢迎.md",
-    "八股笔记/@Lazy解决循环依赖.md",
     "测试.md",
     "八股笔记/工厂模式.md",
     "八股笔记/反射.md",
