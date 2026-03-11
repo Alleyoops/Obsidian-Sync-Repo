@@ -2,4 +2,4 @@
 ![[Pasted image 20260115155832.png]]、
 层高的期望是E=1/(1-P)             但是（层高最大限制到 64）
 ![[Pasted image 20260115155858.png]]跳表的查询时间复杂度是log(2)N，无论P是1/2还是1/4，都能换算成log(2)N
-![[Pasted image 20260115160057.png]]
+![[Pasted image 20260115160057.png]]![[Pasted image 20260306095752.png]]
