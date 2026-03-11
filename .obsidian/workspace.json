@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "并发修改异常"
             }
+          },
+          {
+            "id": "6256354559f944c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,9 +238,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a1b635712c31cf11",
+  "active": "6256354559f944c7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "八股笔记/并发修改异常.md",
+    "onCallAgent/目标账号识别agent.md",
+    "onCallAgent/如何部署的？问题22.md",
     "八股笔记/redis主从和集群可以保证数据一致性吗 ？只能保证最终一致性的话，那么是怎么做到的？.md",
     "八股笔记/redis中zset中跳表层高.md",
     "Pasted image 20260306095752.png",
@@ -258,9 +275,6 @@
     "印度军队机构.md",
     "印度国内主流媒体.md",
     "IndianArm.md",
-    "Mind 2025-12-24 17.28.17.mindmap.md",
-    "Mind 2025-12-24 17.27.46.mindmap.md",
-    "虚拟人问题分类.md",
     "未命名.base",
     "未命名 1.base",
     "未命名.canvas",
