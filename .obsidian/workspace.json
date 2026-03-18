@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股笔记/并发修改异常.md",
+                "file": "八股笔记/禁止指令重排volatile保证有序性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "并发修改异常"
+              "title": "禁止指令重排volatile保证有序性"
             }
           }
         ],
@@ -224,10 +224,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15fa151d3471c4e6",
+  "active": "a1b635712c31cf11",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "八股笔记/集合.md",
+    "八股笔记/禁止指令重排volatile保证有序性.md",
+    "八股笔记/HashMap 的 hash 函数是怎么设计的.md",
+    "八股笔记/什么是setter注入.md",
     "八股笔记/并发修改异常.md",
+    "conflict-files-obsidian-git.md",
     "onCallAgent/目标账号识别agent.md",
     "onCallAgent/如何部署的？问题22.md",
     "八股笔记/redis主从和集群可以保证数据一致性吗 ？只能保证最终一致性的话，那么是怎么做到的？.md",
@@ -251,16 +255,12 @@
     "八股笔记/redolog.md",
     "八股笔记/mysql间隙锁.md",
     "八股笔记/setter注入和字段注入的区别是？.md",
-    "八股笔记/什么是setter注入.md",
     "八股笔记/工厂模式.md",
     "八股笔记/泛型推断.md",
     "八股笔记/反射.md",
     "八股笔记/@Lazy解决循环依赖.md",
     "markdown基本语法.md",
     "Obsidian Vault.zip",
-    "印度军队机构.md",
-    "印度国内主流媒体.md",
-    "IndianArm.md",
     "未命名.base",
     "未命名 1.base",
     "未命名.canvas",
