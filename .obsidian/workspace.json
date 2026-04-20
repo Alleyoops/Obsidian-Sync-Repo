@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "50c93ea459de687b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02d7f32a52fd44d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a975d0948bae8158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "onCallAgent/问题复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题复盘"
+            }
+          },
+          {
+            "id": "0fc34378ad439767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "onCallAgent/问题复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题复盘"
+            }
+          },
+          {
+            "id": "ca9c030707d1de42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "onCallAgent/问题复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题复盘"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dd816dcab468129",
+    "type": "split",
+    "children": [
+      {
+        "id": "adeceb1ff5f5eec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988d17971ffba209",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d490ae9779259688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7d8d8e6836507053",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "872ae412389c2d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "4212a686112c51b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d986631c67e1a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3f7541096fd874d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "1a28989b1a2c6221",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0d107595fe896df8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f164dd976771cbc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "21b6be478b66102a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "21b6be478b66102a",
+  "lastOpenFiles": [
+    "onCallAgent/问题复盘.md",
+    "conflict-files-obsidian-git.md",
+    "未命名.md",
+    "onCallAgent/账号识别.md",
+    "Pasted image 20260413104157.png",
+    "onCallAgent/1输入归一化.md",
+    "onCallAgent/0项目框架.md",
+    "八股笔记/redolog.md",
+    "onCallAgent/2RRF重排.md",
+    "onCallAgent/运维Agent.md",
+    "onCallAgent/增加难点.md",
+    "onCallAgent/目标账号识别agent.md",
+    "onCallAgent/运维agent如何通过日志查询工具、告警查询工具、历史处理工单rag检索工具以及其他工具来进行该问题的分析和排查？.md",
+    "onCallAgent/更新文档的时候会先删除老文档，再重新走一次加载分块向量化存储的流程，那这期间如果有其他请求查询的问题需要用这个文档的话怎么办.md",
+    "八股笔记/禁止指令重排volatile保证有序性.md",
+    "八股笔记/循环依赖-注入方式-解决方法.md",
+    "八股笔记/为什么要依赖注入.md",
+    "八股笔记/为什么匿名内部类使用的局部变量要用final？.md",
+    "八股笔记/什么是setter注入.md",
+    "八股笔记/三级缓存解决循环依赖.md",
+    "八股笔记/取反加一和减一取反是等价的.md",
+    "八股笔记/深拷贝就是还要手动new被拷贝对象的中的引用类型字段.md",
+    "八股笔记/泛型推断.md",
+    "Pasted image 20260305155307.png",
+    "Pasted image 20260305155202.png",
+    "Pasted image 20260115155858.png",
+    "Pasted image 20260115155832.png",
+    "八股笔记/工厂模式.md",
+    "八股笔记/并发修改异常.md",
+    "八股笔记/mysql间隙锁.md",
+    "八股笔记/setter注入和字段注入的区别是？.md",
+    "Pasted image 20260306095752.png",
+    "onCallAgent",
+    "八股笔记"
+  ]
+}
